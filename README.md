@@ -1,38 +1,105 @@
-# Максим Рыцев — Java backend
+<table>
+  <tr>
+    <td align="center">
+      📍 Санкт-Петербург
+    </td>
+    <td align="center">
+      <a href="mailto:maks01-16@mail.ru">maks01-16@mail.ru</a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/mryrt">t.me/mryrt</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mryrtry">github.com/mryrtry</a>
+    </td>
+  </tr>
+</table>
 
-Привет — я Максим, backend-разработчик из Санкт‑Петербурга.
+<h3>👋 Привет! Я — Максим Рыцев</h3>
 
-## Контакты
-- Email: maks01-16@mail.ru  
-- GitHub: https://github.com/mryrtry  
-- Telegram: https://t.me/mryrt
+Я **Java Backend Developer**, разрабатываю серверные приложения и инфраструктуру для современных веб-сервисов.  
 
-## Коротко обо мне
-- Стек: Java (Spring), базы данных, очереди, Docker.  
-- Учусь в НИУ ИТМО (бакалавриат, Программная Инженерия, СППО).  
-- Проходил Школу бэкенд‑разработки (Яндекс), руководил бэкендом в командном проекте.  
-- Сейчас работаю над задачником в OpenProject (COSM Lab).
+Учусь в [НИУ ИТМО](https://itmo.ru) на направлении *Системное и прикладное программное обеспечение (09.03.04)*. 
+Занимаюсь коммерческой и проектной разработкой.
 
-## Что умею
-- Java 8–21 (Streams, многопоточность, коллекции)  
-- Spring Boot / Spring Security / WebFlux / Spring Data JPA  
-- PostgreSQL, MySQL, MongoDB, Redis  
-- Kafka, RabbitMQ  
-- Docker, Docker Compose, базовые знания Kubernetes  
-- Тесты: JUnit, Mockito, TestContainers  
-- CI: GitHub Actions, GitLab CI  
-- OpenAPI / Swagger, JWT, OAuth2, Keycloak
+---
 
-## Основные проекты
-- File Service — REST API для хранения файлов (Spring Boot, JWT, PostgreSQL, Redis).
+### 🚀 Проекты и опыт
+
+- **2025 — [COSM Lab](https://cosm-lab.science/ru/)**  
+  *Ruby, Angular*  
   
-- fixstom78.ru — сайт сети стоматологических клиник (full‑stack: Basic Html, Css, Js, React & Java Srping for admin space).  
+  Разрабатываю новый функционал трекера задач в OpenProject.
 
-- ШБР (Яндекс, 2025) — роль: lead backend (NDA, использовали Spring, WebFlux, OAuth2, Kafka).
+- **2025 — [Yandex (Школа Бэкенд-Разработки)](https://github.com/mryrtry/mryrtry/blob/master/ШБР.2025.Рыцев.Максим.pdf)**  
+  *Java Spring, OAuth2, WebFlux, Kafka, Redis, PostgreSQL, Docker*  
+  
+  Возглавлял разработку бэкенд-сервисов для нового сервиса Яндекса (NDA).  
+  Проектировал архитектуру, проводил code-review и интеграцию с фронтендом.  
 
-- COSM Lab — доработка трекера задач в OpenProject (Ruby + Angular).
+- **2024 — [File Service](https://github.com/mryrtry/file-service)**  
+  *Spring Boot, JWT, PostgreSQL, Redis, Nginx*  
+  
+  REST API для управления файлами с авторизацией и безопасным доступом.
 
-## Документы / сертификаты
-- Сертификат ШБР (Яндекс): ./ШБР.2025.Рыцев.Максим.pdf
+- **2023–2024 — [Fixstom78.ru](https://fixstom78.ru)**  
+  *Java Spring, React, Nginx, PostgreSQL*  
+  
+  Фуллстек-разработка сайта для сети стоматологических клиник.
 
-Если хотите связаться — пишите в Telegram или на почту.
+---
+
+### 🧰 Технологии и инструменты
+
+**Backend:** Java (8–21), Spring Boot, Spring MVC, Security, Data JPA, Validation, Kafka, RabbitMQ  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+**Infrastructure:** Docker, Docker Compose, Kubernetes (базово), Nginx  
+**Testing:** JUnit, Mockito, TestContainers, JMeter  
+**CI/CD:** GitHub Actions, GitLab CI  
+**Build:** Maven, Gradle, Ant  
+**Version Control:** Git (Gitflow), SVN  
+**Methodologies:** Agile, Scrum  
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Angular  
+
+---
+
+### 🎓 Образование
+
+**НИУ ИТМО** — Бакалавриат, 2023–2027  
+
+Факультет программной инженерии и компьютерных технологий  
+*Системное и прикладное программное обеспечение*
+
+---
+
+### 🌍 Языки
+
+- **Русский** — родной  
+- **Английский** — B2 (чтение технической документации, общение по работе)
+
+---
+
+### 📊 GitHub Статистика
+
+<table>
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=mryrtry&show_icons=true&hide_border=true&count_private=true&theme=transparent"
+        alt="GitHub Stats"
+        height="150"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryrtry&layout=compact&hide_border=true&theme=transparent&langs_count=6"
+        alt="Top Languages"
+        height="150"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+ <img src="https://komarev.com/ghpvc/?username=mryrtry&style=flat-square&color=blue" alt="Просмотры профиля" />
