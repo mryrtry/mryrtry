@@ -85,13 +85,6 @@
   <tr>
     <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=mryrtry&show_icons=true&hide_border=true&count_private=true&theme=transparent"
-        alt="GitHub Stats"
-        height="150"
-      />
-    </td>
-    <td align="center">
-      <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryrtry&layout=compact&hide_border=true&theme=transparent&langs_count=6"
         alt="Top Languages"
         height="150"
