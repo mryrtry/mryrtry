@@ -26,7 +26,7 @@
 
 ### 🚀 Проекты и опыт
 
-- **2025 - Now — Frontend Dev, React / Angular, Т-Банк**
+- **2025-Now — Frontend Dev, React / Angular, Т-Банк**
 
 - **2025 — [COSM Lab](https://cosm-lab.science/ru/)**  
   *Ruby, Angular*  
